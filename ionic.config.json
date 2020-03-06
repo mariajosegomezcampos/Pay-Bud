@@ -1,0 +1,7 @@
+{
+  "name": "payBud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
